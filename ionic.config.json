@@ -1,0 +1,7 @@
+{
+  "name": "app-curiosidades-interesantes-IA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
